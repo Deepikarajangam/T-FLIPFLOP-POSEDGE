@@ -55,6 +55,9 @@ always@(posedge clk or posedge rst)
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
+
 ![image](https://github.com/user-attachments/assets/8706b607-087d-4d6b-912b-8d4ee83f2b0f)
 
 
